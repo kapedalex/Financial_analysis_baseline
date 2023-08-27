@@ -2,10 +2,10 @@
 
 This project aims to establish a baseline analysis using the Efficient Frontier and Capital Market Line analysis methods. By utilizing the Sharpe ratio, we construct an efficient frontier to identify optimal portfolios. The code builds on work done by Kevin Vecmanis, with necessary modifications and adjustments made due to theoretical and library-related issues.
 
-Background
+Background:
 Before making sophisticated financial decisions, it's essential to establish a baseline for comparison. The efficient frontier provides insights into the relationship between risk and return for different portfolios. The Capital Market Line (CML) extends this analysis to include the risk-free rate and enables the identification of the most favorable portfolios.
 
-Instructions
+Instructions:
 The analysis begins by fetching historical financial data using the yfinance library, do not forget to use VPN from CIS.
 
 
