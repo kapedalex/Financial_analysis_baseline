@@ -9,17 +9,16 @@ Instructions
 The analysis begins by fetching historical financial data using the yfinance library, do not forget to use VPN from CIS.
 
 
-# # How to Use
+# How to Use
 Run the Code: Execute the provided code in your Python environment.
 
 Understand the Outputs: The code generates visualizations that showcase the efficient frontier, Capital Market Line, and optimal portfolios based on different criteria.
 
 Modify and Experiment: Feel free to modify the assets, optimization parameters, and constraints to experiment with different scenarios and preferences.
 
-# #  Acknowledgments
+# Acknowledgments
 This project builds on the original work by Kevin Vecmanis. However, due to certain theoretical and library-related challenges, the code has been reconfigured and updated for accuracy and compatibility.
 https://kevinvecmanis.io/finance/optimization/2019/04/02/Algorithmic-Portfolio-Optimization.html#min_functions
 
-# #  Disclaimer
+# Disclaimer
 This analysis serves as a starting point and baseline for more complex financial decisions. It is important to consult with financial experts and consider various factors before making investment choices.
-
